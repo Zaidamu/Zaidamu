@@ -1,4 +1,4 @@
-![Zaid's GitHub Banner](https://github.com/afzalamu/personal-portfolio/blob/main/images/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313533393438383237373935343436353739332f313635353837373839382f3135303078353030.jpeg?raw=true)
+![Zaid's GitHub Banner](https://github.com/Zaidamu/Zaidamu/blob/main/images/guthub.webp)
 
 # About Me:
 ## Zaid khan - README
